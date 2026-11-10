@@ -1,0 +1,9 @@
+data/
+results/
+figures/
+__pycache__/
+.pytest_cache/
+*.part
+CLAUDE.md
+plan.md
+.snakemake/

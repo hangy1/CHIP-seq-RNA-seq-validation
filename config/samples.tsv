@@ -1,0 +1,11 @@
+sample	cell	assay	accession	role
+MCF7_K4	MCF-7	h3k4me3	ENCSR000DWJ	tumor
+A549_K4	A549	h3k4me3	ENCSR203XPU	tumor
+HepG2_K4	HepG2	h3k4me3	ENCSR575RRX	tumor
+K562_K4	K562	h3k4me3	ENCSR668LDD	tumor
+NEU_K4	neutrophil	h3k4me3	ENCSR393SYU	background
+MONO_K4	CD14_monocyte	h3k4me3	ENCSR000DWL	background
+MCF7_RNA	MCF-7	rna	ENCSR355JZC	tumor
+A549_RNA	A549	rna	ENCSR414IGI	tumor
+HepG2_RNA	HepG2	rna	ENCSR181ZGR	tumor
+K562_RNA	K562	rna	ENCSR792OIJ	tumor
